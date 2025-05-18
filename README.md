@@ -31,9 +31,9 @@ A modern and scalable starter template for **Next.js**, following best practices
 
 2. Navigate to the project directory:
 
-    ```bash
-    cd nextjs-rtk-starter
-    ```
+   ```bash
+   cd nextjs-rtk-starter
+   ```
 
 3. Install dependencies:
 
@@ -87,8 +87,8 @@ src/
 
 This template comes with:
 
-* **Redux Toolkit** for managing global app state.
-* **RTK Query** for fetching, caching, and managing server state with minimal boilerplate.
+- **Redux Toolkit** for managing global app state.
+- **RTK Query** for fetching, caching, and managing server state with minimal boilerplate.
 
 > Store setup and slices can be found in `shared/api` and `features/model`.
 
@@ -128,8 +128,8 @@ yarn commit
 
 Husky ensures quality checks before code is committed:
 
-* **Pre-commit**: Runs ESLint and Prettier
-* **Commit-msg**: Validates commit message format
+- **Pre-commit**: Runs ESLint and Prettier
+- **Commit-msg**: Validates commit message format
 
 ## 🤝 Contributing
 
@@ -147,8 +147,8 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 🙌 Acknowledgments
 
-* [Next.js Docs](https://nextjs.org/docs)
-* [Feature-Sliced Design](https://feature-sliced.design/)
-* [Redux Toolkit](https://redux-toolkit.js.org/)
-* [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
-* [Conventional Commits](https://www.conventionalcommits.org/)
+- [Next.js Docs](https://nextjs.org/docs)
+- [Feature-Sliced Design](https://feature-sliced.design/)
+- [Redux Toolkit](https://redux-toolkit.js.org/)
+- [RTK Query](https://redux-toolkit.js.org/rtk-query/overview)
+- [Conventional Commits](https://www.conventionalcommits.org/)
